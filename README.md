@@ -1,8 +1,6 @@
 # Быстрая конфигурация для Double Commander
-Закрываем Double Commander и запускаем скрипт с правами текущего пользователя
+Закрываем Double Commander и запускаем команды с правами текущего пользователя
 
-```
-```
 1. Бэкап старых настроек
 
 ```mv ~/.config/doublecmd/doublecmd.xml doublecmd.xml.backup```
