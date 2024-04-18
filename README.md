@@ -3,7 +3,7 @@
 
 1. Бэкап старых настроек
 
-```mv ~/.config/doublecmd/doublecmd.xml doublecmd.xml.backup```
+```mv ~/.config/doublecmd/doublecmd.xml ~/.config/doublecmd/doublecmd.xml.backup```
 
 2. Загрузка новой конфигурации
 
