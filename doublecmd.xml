@@ -261,8 +261,8 @@
     <UseCursorBorder>False</UseCursorBorder>
     <CursorBorderColor>-2147483635</CursorBorderColor>
     <UseFrameCursor>True</UseFrameCursor>
-    <Foreground>-2147483640</Foreground>
-    <Background>-2147483643</Background>
+    <Foreground>0</Foreground>
+    <Background>16777215</Background>
     <Background2>15790320</Background2>
     <Cursor>16711680</Cursor>
     <CursorText>-2147483634</CursorText>
