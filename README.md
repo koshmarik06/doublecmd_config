@@ -5,6 +5,6 @@
 
 ```mv ~/.config/doublecmd/doublecmd.xml ~/.config/doublecmd/doublecmd.xml.backup```
 
-2. Загрузка новой конфигурации
+2. Загрузка новой конфигурации (запускать с правами пользователя)
 
 ```wget -P ~/.config/doublecmd https://raw.githubusercontent.com/koshmarik06/doublecmd_config/main/doublecmd.xml```
